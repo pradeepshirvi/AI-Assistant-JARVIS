@@ -18,7 +18,7 @@ import pyjokes
 import requests
 import subprocess
 
-GENAI_API_KEY = "AIzaSyC4v45ZtZk59Sa8ELtI0l9rGIop-2S2ACg"  
+GENAI_API_KEY = "API KEY HERE"  
 genai.configure(api_key=GENAI_API_KEY)
 
 output_dir = "D:\\JarvisAI\\JARVISAI"

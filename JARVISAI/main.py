@@ -11,7 +11,7 @@ import random # Added for random filenames
 import re # Added for sanitizing filenames
 
 
-GENAI_API_KEY = "AIzaSyDAKrhTYGzatmdxvgT3EGAUEin91QboKLk"
+GENAI_API_KEY = "API KEY HERE"  # Replace with your actual API key or set it as an environment variable
 
 if not GENAI_API_KEY:
     print("Error: Gemini API Key not found. Please set the environment variable.")
