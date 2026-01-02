@@ -39,7 +39,7 @@ This is a Python-based AI assistant that uses Google's Gemini Pro model for inte
 1.  Open `JARVISAI/jarvis.py` (or `JARVISAI/main.py`).
 2.  Locate the line:
     ```python
-    GENAI_API_KEY = "AIzaSyDAKrhTYGzatmdxvgT3EGAUEin91QboKLk"
+    GENAI_API_KEY = "API Key Here"
     ```
     *Note: It is recommended to use environment variables for security instead of hardcoding the key.*
 3.  Update other configurations like `output_dir`, `music_dir`, `email_user`, and `email_password` as needed in the script.
