@@ -1,0 +1,8 @@
+google-generativeai
+pyttsx3
+SpeechRecognition
+wikipedia
+pyautogui
+pyjokes
+requests
+pyaudio
